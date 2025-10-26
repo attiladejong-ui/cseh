@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,ct1 HD
+http://185.188.188.237:5000/live/ct1/playlist.m3u8
+#EXTINF:-1,ct2 HD
+http://185.188.188.237:5000/live/ct2/playlist.m3u8
+#EXTINF:-1,ct24 HD
+http://185.188.188.237:5000/live/ct24/playlist.m3u8
+#EXTINF:-1,wau HD
+http://185.188.188.237:5000/live/wau/playlist.m3u8
+#EXTINF:-1,ta3
+http://185.188.188.237:5000/live/ta3/playlist.m3u8
+#EXTINF:-1,primazoom HD
+http://185.188.188.237:5000/live/primazoom/playlist.m3u8
+#EXTINF:-1,doma HD
+http://185.188.188.237:5000/live/doma/playlist.m3u8
+#EXTINF:-1,paprika
+http://185.188.188.237:5000/live/paprika/playlist.m3u8
+#EXTINF:-1,markiza HD
+http://185.188.188.237:5000/live/markiza/playlist.m3u8
+#EXTINF:-1,markiza krimi HD
+http://185.188.188.237:5000/live/markizakrimi/playlist.m3u8
+#EXTINF:-1,novagold HD
+http://185.188.188.237:5000/live/novagold/playlist.m3u8
+#EXTINF:-1,nova cinema HD
+http://185.188.188.237:5000/live/novacinema/playlist.m3u8
+#EXTINF:-1,novafun HD
+http://185.188.188.237:5000/live/novafun/playlist.m3u8
+#EXTINF:-1,joj cinema HD
+http://185.188.188.237:5000/live/jojcinema/playlist.m3u8
+#EXTINF:-1,jojplus HD
+http://185.188.188.237:5000/live/jojplus/playlist.m3u8
+#EXTINF:-1,barrandov
+http://185.188.188.237:5000/live/barrandov/playlist.m3u8
+#EXTINF:-1,dvojka HD
+http://185.188.188.237:5000/live/dvojka/playlist.m3u8
+#EXTINF:-1,jednotka HD
+http://185.188.188.237:5000/live/jednotka/playlist.m3u8
+#EXTINF:-1,natgeowild HD
+http://185.188.188.237:5000/live/natgeowild/playlist.m3u8
+#EXTINF:-1,natgeo HD
+http://185.188.188.237:5000/live/natgeo/playlist.m3u8
+#EXTINF:-1,viasatnature HD
+http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
+#EXTINF:-1,viasathistory HD
+http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
+#EXTINF:-1,discovery HD
+http://185.188.188.237:5000/live/discovery/playlist.m3u8
+#EXTINF:-1,viasat explore HD
+http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
+#EXTINF:-1,love nature HD
+http://185.188.188.237:5000/live/lovenature/playlist.m3u8
+#EXTINF:-1,axn
+http://185.188.188.237:5000/live/axn/playlist.m3u8
+#EXTINF:-1,axnwhite
+http://185.188.188.237:5000/live/axnwhite/playlist.m3u8
+#EXTINF:-1,amc
+http://185.188.188.237:5000/live/amc/playlist.m3u8
+#EXTINF:-1,axnblack
+http://185.188.188.237:5000/live/axnblack/playlist.m3u8
+#EXTINF:-1,filmbox HD
+http://185.188.188.237:5000/live/filmbox/playlist.m3u8
+#EXTINF:-1,filmboxfamily
+http://185.188.188.237:5000/live/filmboxfamily/playlist.m3u8
+#EXTINF:-1,filmboxpremium HD
+http://185.188.188.237:5000/live/filmboxpremium/playlist.m3u8
+#EXTINF:-1,filmboxextra HD
+http://185.188.188.237:5000/live/filmboxextra/playlist.m3u8
+#EXTINF:-1,filmbox stars HD
+http://185.188.188.237:5000/live/filmboxstars/playlist.m3u8
+#EXTINF:-1,hbo HD
+http://185.188.188.237:5000/live/hbo/playlist.m3u8
+#EXTINF:-1,hbo 2 HD
+http://185.188.188.237:5000/live/hbo2/playlist.m3u8
+#EXTINF:-1,hbo 3 HD
+http://185.188.188.237:5000/live/hbo3/playlist.m3u8
+#EXTINF:-1,joj HD
+http://185.188.188.237:5000/live/joj/playlist.m3u8
+#EXTINF:-1,prima HD
+http://185.188.188.237:5000/live/prima/playlist.m3u8
+#EXTINF:-1,spektrum HD
+http://185.188.188.237:5000/live/spektrum/playlist.m3u8
+#EXTINF:-1,dajto HD
+http://185.188.188.237:5000/live/dajto/playlist.m3u8
+#EXTINF:-1,nova HD
+http://185.188.188.237:5000/live/nova/playlist.m3u8
+#EXTINF:-1,paramount
+http://185.188.188.237:5000/live/paramount/playlist.m3u8
+#EXTINF:-1,ctsport HD
+http://185.188.188.237:5000/live/ctsport/playlist.m3u8
+#EXTINF:-1,jojsport HD
+http://185.188.188.237:5000/live/jojsport/playlist.m3u8
+#EXTINF:-1,rtvssport HD
+http://185.188.188.237:5000/live/rtvssport/playlist.m3u8
+#EXTINF:-1,novasport 1 HD
+http://185.188.188.237:5000/live/novasport1/playlist.m3u8
+#EXTINF:-1,novasport 2 HD
+http://185.188.188.237:5000/live/novasport2/playlist.m3u8
+#EXTINF:-1,novasport 3 HD
+http://185.188.188.237:5000/live/novasport3/playlist.m3u8
+#EXTINF:-1,novasport1 4 HD
+http://185.188.188.237:5000/live/novasport4/playlist.m3u8
+#EXTINF:-1,novasport1 5 HD
+http://185.188.188.237:5000/live/novasport5/playlist.m3u8
+#EXTINF:-1,arenasport 1 HD
+http://185.188.188.237:5000/live/arenasport1/playlist.m3u8
+#EXTINF:-1,arenasport 2 HD
+http://185.188.188.237:5000/live/arenasport2/playlist.m3u8
+#EXTINF:-1,sport 1 HD
+http://185.188.188.237:5000/live/sport1/playlist.m3u8
+#EXTINF:-1,sport 2 HD
+http://185.188.188.237:5000/live/sport2/playlist.m3u8
+#EXTINF:-1,eurosport 1 HD
+http://185.188.188.237:5000/live/eurosport/playlist.m3u8
+#EXTINF:-1,eurosport2 HD
+http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
+#EXTINF:-1,golf channel HD
+http://185.188.188.237:5000/live/golfchannel/playlist.m3u8
+#EXTINF:-1,disneychannel
+http://185.188.188.237:5000/live/disneychannel/playlist.m3u8
+#EXTINF:-1,minimax
+http://185.188.188.237:5000/live/minimax/playlist.m3u8
+#EXTINF:-1,nicktoons
+http://185.188.188.237:5000/live/nicktoons/playlist.m3u8
+#EXTINF:-1,nickjr
+http://185.188.188.237:5000/live/nickjr/playlist.m3u8
+#EXTINF:-1,nickelodeon
+http://185.188.188.237:5000/live/nickelodeon/playlist.m3u8
+#EXTINF:-1,cartoonnetwork
+http://185.188.188.237:5000/live/cartoonnetwork/playlist.m3u8
+#EXTINF:-1,ducktv
+http://185.188.188.237:5000/live/ducktv/playlist.m3u8
+#EXTINF:-1,mtvhits
+http://185.188.188.237:5000/live/mtvhits/playlist.m3u8
+#EXTINF:-1,mtveurope
+http://185.188.188.237:5000/live/mtveurope/playlist.m3u8
+#EXTINF:-1,senzi HD
+http://185.188.188.237:5000/live/senzi/playlist.m3u8
+#EXTINF:-1,Ócko HD
+http://185.188.188.237:5000/live/ocko/playlist.m3u8
+#EXTINF:-1,vixen HD
+http://185.188.188.237:5000/live/vixen/playlist.m3u8
